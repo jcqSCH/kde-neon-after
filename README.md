@@ -49,9 +49,8 @@ https://kubuntu.org/alternative-downloads/
 	sudo apt install qbittorrent -y && 
 	sudo apt install inkscape -y
 
-> Join lines using Sublime Text or VS Code shortcut `CTRL + J`. Then run all commands at once. <br/>
-> Or join lines online: <br/>
-https://www.browserling.com/tools/join-lines
+> Join lines using Sublime Text or VS Code shortcut `CTRL + J`. Then run all commands at once.
+- Online alternative: https://www.browserling.com/tools/join-lines
 
 <br/>
 
