@@ -34,6 +34,7 @@ https://neon.kde.org/download
 	sudo apt install kcalc -y && 
 	sudo apt install kolourpaint -y && 
 	sudo apt install kpat ksudoku quadrapassel lskat -y && 
+	sudo apt install goodvibes -y && 
 
 	sudo apt update && 
 
