@@ -32,6 +32,7 @@ https://kubuntu.org/alternative-downloads/
 	sudo apt install bleachbit -y && 
 	sudo apt install krusader -y && 
 	sudo apt install kcalc -y && 
+	sudo apt install kolourpaint -y && 
 	sudo apt install kpat ksudoku quadrapassel lskat -y && 
 
 	sudo apt update && 
@@ -90,7 +91,7 @@ https://www.browserling.com/tools/join-lines
 - Enable 2 clicks to open files;
 - Enable Num Lock by default;
 - Enable New Session when restarting system;
-- COnfigure Dolphin to start a new session when restarting the application;
+- Configure Dolphin to always start a new session when reopening the application;
 
 <br/>
 
