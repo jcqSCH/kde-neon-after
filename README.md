@@ -1,7 +1,7 @@
 # KDE NEON (UBUNTU 22.04 LTS BASE): after install
 Things to do after installing KDE Neon Operating System. <br/>
 Tested version: KDE Neon 5.26 (based on Ubuntu 22.04.1 LTS) <br/>
-https://kubuntu.org/alternative-downloads/
+https://neon.kde.org/download
 
 <br/>
 
