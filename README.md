@@ -17,22 +17,22 @@ https://kubuntu.org/alternative-downloads/
 
 ## 2 ➜ RUN COMMANDS IN TERMINAL
 
-	xdg-user-dirs-update &&
+	xdg-user-dirs-update && 
 
 	sudo apt update && 
 
-	# sudo apt install kde-l10n-ptbr -y &&			# ALREADY INCLUDED IN KUBUNTU 22.04
-	# sudo apt install software-properties-common -y &&	# ALREADY INCLUDED IN KUBUNTU 22.04
-	# sudo apt install libreoffice-l10n-pt-br -y &&
-	# sudo apt install libreoffice-style-sifr -y &&
+	# sudo apt install kde-l10n-ptbr -y && 			# ALREADY INCLUDED IN KUBUNTU 22.04
+	# sudo apt install software-properties-common -y && 	# ALREADY INCLUDED IN KUBUNTU 22.04
+	# sudo apt install libreoffice-l10n-pt-br -y && 
+	# sudo apt install libreoffice-style-sifr -y && 
 
-	sudo apt install kubuntu-restricted-extras -y &&
-	sudo apt install build-essential dkms git-all bc -y &&
+	sudo apt install kubuntu-restricted-extras -y && 
+	sudo apt install build-essential dkms git-all bc -y && 
 	sudo apt install unace unrar zip unzip p7zip-full p7zip-rar sharutils rar -y && 
 	sudo apt install bleachbit -y && 
 	sudo apt install krusader -y && 
-	sudo apt install kcalc -y &&
-	sudo apt install kpat ksudoku quadrapassel lskat -y &&
+	sudo apt install kcalc -y && 
+	sudo apt install kpat ksudoku quadrapassel lskat -y && 
 
 	sudo apt update && 
 
@@ -90,6 +90,7 @@ https://www.browserling.com/tools/join-lines
 - Enable 2 clicks to open files;
 - Enable Num Lock by default;
 - Enable New Session when restarting system;
+- COnfigure Dolphin to start a new session when restarting the application;
 
 <br/>
 
@@ -122,7 +123,7 @@ Icons: <br/>
 ✔ Willow Light <br/>
 
 Cursors: <br/>
-✔ Vimix Cursors <br/>
+✔ Capitaine Cursors <br/>
 
 <br/>
 
