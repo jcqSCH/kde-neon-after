@@ -9,7 +9,7 @@ https://kubuntu.org/alternative-downloads/
 **VS Code:** https://code.visualstudio.com/download/ <br/>
 **PowerShell:** https://github.com/PowerShell/PowerShell#get-powershell <br/>
 **Google Chrome:** https://www.google.com/chrome/browser/desktop/ <br/>
-**WPS Office (Stable BR):** https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/tag/11.1.0.8865 <br/>
+**WPS Office (BR Stable):** https://github.com/aldebaranbm/wpsoffice-linux_pt-br/releases/tag/11.1.0.8865 <br/>
 **Spotify:** https://www.spotify.com/br/download/linux/ <br/>
 **OpenRGB:** https://openrgb.org/releases.html
 
@@ -48,7 +48,7 @@ https://kubuntu.org/alternative-downloads/
 	sudo apt install qbittorrent -y && 
 	sudo apt install inkscape -y
 
-> Join lines using Sublime Text or VS Code shortcut `CTRL + J`. Then run all commands at once.
+> Join lines using Sublime Text or VS Code shortcut `CTRL + J`. Then run all commands at once. <br/>
 > Or join lines online:
 https://www.browserling.com/tools/join-lines
 
